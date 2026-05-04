@@ -102,7 +102,7 @@ header {
 
 
 .bloco-texto {
-    background-image: url(../img/WhatsApp\ Image\ 2026-04-14\ at\ 12.54.26.jpeg);
+    background-image: url(../img/background.jpeg);
     min-height: calc(100dvh - var(--header-height));
     width: 100%;
     background-attachment: fixed;
